@@ -1,0 +1,154 @@
+PC(P-18:1(11Z)/18:4(6Z,9Z,12Z,15Z))	m/z=763.5577
+PC(P-18:1(11Z)/18:4(6Z,9Z,12Z,15Z))	BDH1
+PC(P-18:1(11Z)/18:4(6Z,9Z,12Z,15Z))	m/z=763.557
+Tryptamine	DDC
+Tryptamine	MAOB
+Tryptamine	MAOA
+PE(P-18:0/20:5(5Z,8Z,11Z,14Z,17Z))	m/z=749.5404
+PE(P-18:0/20:5(5Z,8Z,11Z,14Z,17Z))	EPT1
+PC(20:4(8Z,11Z,14Z,17Z)/18:2(9Z,12Z))	m/z=805.5663
+PC(20:4(8Z,11Z,14Z,17Z)/18:2(9Z,12Z))	BDH1
+Dehydroascorbic acid	MOXD1
+Dehydroascorbic acid	SLC2A1
+m/z=849.6644	PC(o-22:1(13Z)/20:4(8Z,11Z,14Z,17Z))
+PC(18:3(6Z,9Z,12Z)/18:1(9Z))	m/z=781.5665
+PC(18:3(6Z,9Z,12Z)/18:1(9Z))	BDH1
+m/z=763.557	PC(P-16:0/20:5(5Z,8Z,11Z,14Z,17Z))
+m/z=106.0192	Glyceric acid
+m/z=106.0192	L-Glyceric acid
+12-Ketodeoxycholic acid	FABP6
+12-Ketodeoxycholic acid	m/z=390.2702
+m/z=805.5663	PC(18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))
+Pregnenolone sulfate	SULT1A3
+Pregnenolone sulfate	SULT2A1
+HAL	(E)-Urocanic acid
+HAL	Urocanic acid
+HAL	L-Histidine
+Acetoacetic acid	SLC16A7
+Acetoacetic acid	BDH1
+TPO	Dopamine quinone
+TPO	L-Tyrosine
+PRMT3	1-Methylhistidine
+PRMT3	5-Hydroxyindoleacetaldehyde
+ENPP2	LysoPE(0:0/20:3(11Z,14Z,17Z))
+ENPP2	LysoPE(20:3(11Z,14Z,17Z)/0:0)
+ENPP2	HSPB1
+BCAT2	Alpha-ketoisovaleric acid
+BCAT2	ALDOA
+BCAT2	Ketoleucine
+BCAT1	3-Methyl-2-oxovaleric acid
+BCAT1	PSAP
+BCAT1	Ketoleucine
+m/z=513.2683	Sulfolithocholylglycine
+Glyceric acid	ALDH1A3
+CYP3A7	Epitestosterone
+CYP3A7	Cholestane-3,7,12,25-tetrol
+1-Methylhistidine	m/z=169.0923
+Tyramine	MAOB
+Tyramine	MAOA
+Tyramine	SULT1A3
+SLC2A4	Glucosamine
+SLC2A4	DLD
+EPT1	PPAT
+EPT1	PE(P-18:1(9Z)/20:4(5Z,8Z,11Z,14Z))
+EPT1	PE(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))
+EPT1	PE(P-18:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))
+PE(P-18:1(9Z)/22:5(4Z,7Z,10Z,13Z,16Z))	m/z=775.5553
+m/z=90.0243	Glyceraldehyde
+m/z=90.0243	Dihydroxyacetone
+m/z=90.0243	D-Lactic acid
+LysoPE(0:0/20:3(11Z,14Z,17Z))	m/z=503.3082
+Xanthine	m/z=152.0261
+Xanthine	PNP
+D-Xylulose 1-phosphate	ALDOA
+D-Xylulose 1-phosphate	ALDOB
+Eugenol	UGT2B28
+Eugenol	UGT2B17
+Eugenol	m/z=164.0765
+SLC2A1	Glucosamine
+PC(P-16:0/20:5(5Z,8Z,11Z,14Z,17Z))	m/z=763.5577
+PC(P-16:0/20:5(5Z,8Z,11Z,14Z,17Z))	BDH1
+Phenethylamine glucuronide	UGT2B17
+Phenethylamine glucuronide	m/z=297.1139
+Methanol	AADAC
+Methanol	ADH7
+Methanol	ADH1A
+7-Hydroxy-3-oxocholanoic acid	m/z=390.2702
+7-Hydroxy-3-oxocholanoic acid	SLCO1B3
+PC(P-18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	m/z=815.5884
+PC(P-18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	BDH1
+m/z=436.3481	Cholestane-3,7,12,25-tetrol
+m/z=781.5665	PC(18:1(11Z)/18:3(9Z,12Z,15Z))
+PLA2G12A	PC(o-22:1(13Z)/20:4(8Z,11Z,14Z,17Z))
+PLA2G12A	UMPS
+HSPB1	ALPI
+m/z=529.2633	Glycochenodeoxycholate-3-sulfate
+m/z=529.2633	N-[(3a,5b,7a)-3-hydroxy-24-oxo-7-(sulfooxy)cholan-24-yl]-Glycine
+Ecgonine	m/z=185.1123
+Ecgonine	AADAC
+UMPS	Phosphoribosyl pyrophosphate
+m/z=179.0865	Glucosamine
+DLD	Ketoleucine
+xi-Norepinephrine	MOXD1
+xi-Norepinephrine	MAOB
+m/z=181.081	L-Tyrosine
+UGT2B28	5b-Dihydrotestosterone
+DDC	L-Tyrosine
+DDC	L-Histidine
+SM(d18:1/24:1(15Z))	m/z=812.6806
+SM(d18:1/24:1(15Z))	PSAP
+m/z=737.5403	PC(P-16:0/18:4(6Z,9Z,12Z,15Z))
+PE(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))	m/z=775.5553
+GLYATL2	N-Heptanoylglycine
+GLYATL2	Sulfolithocholylglycine
+GLYATL2	N-[(3a,5b,7a)-3-hydroxy-24-oxo-7-(sulfooxy)cholan-24-yl]-Glycine
+GLYATL3	Sulfolithocholylglycine
+GLYATL3	N-[(3a,5b,7a)-3-hydroxy-24-oxo-7-(sulfooxy)cholan-24-yl]-Glycine
+PSAP	3-O-Sulfogalactosylceramide (d18:1/24:0)
+m/z=187.128	N-Heptanoylglycine
+MAOB	3,4-Dihydroxymandelaldehyde
+MAOB	5-Hydroxyindoleacetaldehyde
+MAOB	Methylimidazoleacetic acid
+MAOB	4-Hydroxyphenylacetaldehyde
+MAOA	3,4-Dihydroxyphenylacetaldehyde
+MAOA	4-Hydroxyphenylacetaldehyde
+MAOA	3,4-Dihydroxymandelaldehyde
+GGT1	Cysteinyl-Glycine
+GGT1	NAMPT
+PE(P-18:1(9Z)/20:4(5Z,8Z,11Z,14Z))	m/z=749.5404
+HPRT1	Hypoxanthine
+HPRT1	Phosphoribosyl pyrophosphate
+L-Glyceric acid	LDHD
+NAMPT	Phosphoribosyl pyrophosphate
+FABP6	Glycochenodeoxycholate-3-sulfate
+m/z=138.0501	Urocanic acid
+m/z=138.0501	(E)-Urocanic acid
+m/z=116.0399	Alpha-ketoisovaleric acid
+ALDOB	Glyceraldehyde
+3,4-Dihydroxyphenylacetaldehyde	ALDH1A3
+5a-Dihydrotestosterone sulfate	SULT1A3
+5a-Dihydrotestosterone sulfate	SULT2A1
+m/z=151.0705	Dopamine quinone
+LysoPE(20:3(11Z,14Z,17Z)/0:0)	m/z=503.3082
+Methylimidazoleacetic acid	ALDH1A3
+SULT1A3	Epitestosterone
+SULT1A3	5b-Dihydrotestosterone
+Hypoxanthine	PNP
+Hypoxanthine	m/z=136.0457
+3-Methyl-2-oxovaleric acid	m/z=130.0558
+ADH7	3,4-Dihydroxymandelaldehyde
+PPAT	Phosphoribosyl pyrophosphate
+Cysteinyl-Glycine	m/z=178.0484
+m/z=130.0558	Ketoleucine
+5b-Dihydrotestosterone	SULT2A1
+SLCO1B3	Glycochenodeoxycholate-3-sulfate
+PC(18:1(11Z)/18:3(9Z,12Z,15Z))	BDH1
+m/z=136.0457	4-Hydroxyphenylacetaldehyde
+Sulfolithocholylglycine	SULT2A1
+PC(P-16:0/18:4(6Z,9Z,12Z,15Z))	BDH1
+LDHD	D-Lactic acid
+3,4-Dihydroxymandelaldehyde	ADH1A
+3-O-Sulfogalactosylceramide (d18:1/24:0)	m/z=891.6501
+BDH1	PC(18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))
+D-Lactic acid	SLC16A7
+ALPI	Dihydroxyacetone
