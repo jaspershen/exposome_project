@@ -220,62 +220,62 @@ setwd(
   "data_analysis/exposomeChemical_gut_microbiome/exposomeChemical_gut_microbiome_plot"
 )
 
-for (idx in 1:nrow(cor_value1)) {
-  cat(idx, " ")
-  path1 <- file.path(cor_value1$from[idx])
-  dir.create(path1, showWarnings = FALSE)
-  temp_data <-
-    data.frame(
-      date = as.character(gut_microbiome_sample_info$CollectionDate),
-      exp = as.numeric(exp_expression_data[cor_value1$from[idx],]),
-      pro = as.numeric(gut_microbiome_expression_data1[cor_value1$to[idx],]),
-      stringsAsFactors = FALSE
-    )
-  plot <-
-    temp_data %>%
-    ggplot(aes(exp, pro)) +
-    geom_point() +
-    geom_smooth(method = "lm", color = "skyblue") +
-    ggrepel::geom_label_repel(aes(x = exp, pro, label = date)) +
-    labs(
-      x = paste("Exposome (chemical): ", cor_value1$exp_id[idx], sep = ""),
-      y = paste("Gut microbiome: " , cor_value1$gut_microbiome_id[idx]),
-      sep = ""
-    ) +
-    theme_bw() +
-    theme(
-      axis.title = element_text(size = 13),
-      axis.text = element_text(size = 12),
-      plot.background = element_rect(fill = "transparent", color = NA),
-      panel.background = element_rect(fill = "transparent", color = NA)
-    ) +
-    annotate(
-      geom = "text",
-      x = -Inf,
-      y = Inf,
-      label = paste(
-        "Correlation: ",
-        round(cor_value1$cor[idx], 2),
-        "\nFDR adjusted P value: ",
-        round(cor_value1$fdr[idx], 3),
-        sep = ""
-      ),
-      vjust = 2,
-      hjust = -1
-    )
-  
-  name <- paste(cor_value1$from[idx], "_",
-                cor_value1$to[idx], ".pdf", sep = "")
-  
-  ggsave(
-    plot,
-    filename = file.path(path1, name),
-    width = 7,
-    height = 7,
-    bg = "transparent"
-  )
-  
-}
+# for (idx in 1:nrow(cor_value1)) {
+#   cat(idx, " ")
+#   path1 <- file.path(cor_value1$from[idx])
+#   dir.create(path1, showWarnings = FALSE)
+#   temp_data <-
+#     data.frame(
+#       date = as.character(gut_microbiome_sample_info$CollectionDate),
+#       exp = as.numeric(exp_expression_data[cor_value1$from[idx],]),
+#       pro = as.numeric(gut_microbiome_expression_data1[cor_value1$to[idx],]),
+#       stringsAsFactors = FALSE
+#     )
+#   plot <-
+#     temp_data %>%
+#     ggplot(aes(exp, pro)) +
+#     geom_point() +
+#     geom_smooth(method = "lm", color = "skyblue") +
+#     ggrepel::geom_label_repel(aes(x = exp, pro, label = date)) +
+#     labs(
+#       x = paste("Exposome (chemical): ", cor_value1$exp_id[idx], sep = ""),
+#       y = paste("Gut microbiome: " , cor_value1$gut_microbiome_id[idx]),
+#       sep = ""
+#     ) +
+#     theme_bw() +
+#     theme(
+#       axis.title = element_text(size = 13),
+#       axis.text = element_text(size = 12),
+#       plot.background = element_rect(fill = "transparent", color = NA),
+#       panel.background = element_rect(fill = "transparent", color = NA)
+#     ) +
+#     annotate(
+#       geom = "text",
+#       x = -Inf,
+#       y = Inf,
+#       label = paste(
+#         "Correlation: ",
+#         round(cor_value1$cor[idx], 2),
+#         "\nFDR adjusted P value: ",
+#         round(cor_value1$fdr[idx], 3),
+#         sep = ""
+#       ),
+#       vjust = 2,
+#       hjust = -1
+#     )
+#   
+#   name <- paste(cor_value1$from[idx], "_",
+#                 cor_value1$to[idx], ".pdf", sep = "")
+#   
+#   ggsave(
+#     plot,
+#     filename = file.path(path1, name),
+#     width = 7,
+#     height = 7,
+#     bg = "transparent"
+#   )
+#   
+# }
 
 setwd(r4projects::get_project_wd())
 setwd("data_analysis/exposomeChemical_gut_microbiome/")

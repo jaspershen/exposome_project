@@ -232,7 +232,7 @@ ggmap(cal_map) +
   theme_bw()
 
   
-#https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
+#https://www1.ncdc.noaa.gov/pub/2_data/ghcn/daily/readme.txt
 
 monitors <- stations2$id
 

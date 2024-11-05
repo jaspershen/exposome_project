@@ -4,9 +4,43 @@
 .Ruserdata
 
 data/
+2_data/
 manuscript/
+4_manuscript/
 summary/
+5_summary/
 
+2_data/annotaiton/test.csv
+2_data/BloodExpsomeDatabase_version_1.0.xlsx
+2_data/cell_10412_mmc3
+2_data/Excels.zip
+2_data/iPOPs/Plasma_iPOP_RPLC_neg_anno_exposome.csv
+2_data/iPOPs/Plasma_iPOP_RPLC_pos_anno_exposome.csv
+2_data/T3DB_database/HMDB.metabolite.data
+2_data/T3DB_database/targets.csv
+2_data/T3DB_database/targets.xml
+2_data/T3DB_database/toxins.csv
+2_data/T3DB_database/toxins.json
+2_data/T3DB_database/toxins.xml
+2_data/toxins.csv
+4_manuscript/Figure_S1/Figure_S1.ai
+4_manuscript/Figure_S5/Figure_S5.ai
+4_manuscript/Figure1/Fig_1.pdf
+4_manuscript/Figure1/Figure_1.ai
+4_manuscript/Figure1/temp.ai
+4_manuscript/Figure3/Fig_3.pdf
+4_manuscript/Figure3/Figure_3.ai
+4_manuscript/Figure5/Fig_5.pdf
+4_manuscript/Figure5/Figure_5.ai
+4_manuscript/Manuscript.docx
+4_manuscript/Previous manuscripts/Manuscript_GB.docx
+4_manuscript/Previous manuscripts/Manuscript_Lancet.docx
+4_manuscript/Previous manuscripts/Manuscript_plos.docx
+4_manuscript/Previous manuscripts/Manuscript_Science.docx
+4_manuscript/Previous manuscripts/Manuscript.docx
+4_manuscript/Previous manuscripts/Precision+environmental+health+monitoring+by+longitudinal+exposome+and+multi-omics+profiling-cj-sz.docx
+4_manuscript/Previous manuscripts/Precision+environmental+health+monitoring+by+longitudinal+exposome+and+multi-omics+profiling-cj-xt-pg-xt.docx
+4_manuscript/Previous manuscripts/Supplementary information.docx
 data_20200511/database/BloodExpsomeDatabase_version_1.0.csv
 data_20200511/database/BloodExpsomeDatabase_version_1.0.xlsx
 data_20200511/database/T3DB.csv
@@ -17,19 +51,6 @@ data_20200511/gut_microbiome/rnaseq_log_data
 data_20200511/metabolome/hmdbMS1Database0.0.1
 data_analysis/exposomeBiological_proteome/exposome_biological_protein_pathway.png
 data_analysis/exposomeBiological_proteome/pathway_enrichment/enrich_go
-data/annotaiton/test.csv
-data/BloodExpsomeDatabase_version_1.0.xlsx
-data/cell_10412_mmc3
-data/Excels.zip
-data/iPOPs/Plasma_iPOP_RPLC_neg_anno_exposome.csv
-data/iPOPs/Plasma_iPOP_RPLC_pos_anno_exposome.csv
-data/T3DB_database/HMDB.metabolite.data
-data/T3DB_database/targets.csv
-data/T3DB_database/targets.xml
-data/T3DB_database/toxins.csv
-data/T3DB_database/toxins.json
-data/T3DB_database/toxins.xml
-data/toxins.csv
 Exposome_databases/BloodExpsomeDatabase_version_1.0.xlsx
 Exposome_databases/HBM4EU_CECscreen_DB_v3.1.xlsx
 Exposome_databases/HBM4EU_CECscreen_MetabolitesDB_v1.0.xlsx
@@ -37,21 +58,3 @@ Exposome_databases/NORMAN SusDat.csv
 Exposome_databases/PubChemLite_31Oct2020_exposomics.csv
 Exposome_databases/T3DB.csv
 Exposome_databases/targets.csv
-manuscript/Figure_S1/Figure_S1.ai
-manuscript/Figure_S5/Figure_S5.ai
-manuscript/Figure1/Fig_1.pdf
-manuscript/Figure1/Figure_1.ai
-manuscript/Figure1/temp.ai
-manuscript/Figure3/Fig_3.pdf
-manuscript/Figure3/Figure_3.ai
-manuscript/Figure5/Fig_5.pdf
-manuscript/Figure5/Figure_5.ai
-manuscript/Manuscript.docx
-manuscript/Previous manuscripts/Manuscript_GB.docx
-manuscript/Previous manuscripts/Manuscript_Lancet.docx
-manuscript/Previous manuscripts/Manuscript_plos.docx
-manuscript/Previous manuscripts/Manuscript_Science.docx
-manuscript/Previous manuscripts/Manuscript.docx
-manuscript/Previous manuscripts/Precision+environmental+health+monitoring+by+longitudinal+exposome+and+multi-omics+profiling-cj-sz.docx
-manuscript/Previous manuscripts/Precision+environmental+health+monitoring+by+longitudinal+exposome+and+multi-omics+profiling-cj-xt-pg-xt.docx
-manuscript/Previous manuscripts/Supplementary information.docx

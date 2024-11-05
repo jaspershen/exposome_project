@@ -1,9 +1,9 @@
 setwd(r4projects::get_project_wd())
 
 setwd("data_analysis/")
-load("../data/metabolite_table")
-load("../data/metabolite_tags")
-load("../data/phenotype_table")
+load("../2_data/metabolite_table")
+load("../2_data/metabolite_tags")
+load("../2_data/phenotype_table")
 
 
 
