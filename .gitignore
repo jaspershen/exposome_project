@@ -9,10 +9,18 @@ manuscript/
 4_manuscript/
 summary/
 5_summary/
+
 2_data/annotaiton/test.csv
 2_data/BloodExpsomeDatabase_version_1.0.xlsx
 2_data/cell_10412_mmc3
 2_data/Excels.zip
+2_data/Exposome_databases/BloodExpsomeDatabase_version_1.0.xlsx
+2_data/Exposome_databases/HBM4EU_CECscreen_DB_v3.1.xlsx
+2_data/Exposome_databases/HBM4EU_CECscreen_MetabolitesDB_v1.0.xlsx
+2_data/Exposome_databases/NORMAN SusDat.csv
+2_data/Exposome_databases/PubChemLite_31Oct2020_exposomics.csv
+2_data/Exposome_databases/T3DB.csv
+2_data/Exposome_databases/targets.csv
 2_data/iPOPs/Plasma_iPOP_RPLC_neg_anno_exposome.csv
 2_data/iPOPs/Plasma_iPOP_RPLC_pos_anno_exposome.csv
 2_data/T3DB_database/HMDB.metabolite.data
@@ -53,18 +61,3 @@ summary/
 4_manuscript/Previous manuscripts/Precision+environmental+health+monitoring+by+longitudinal+exposome+and+multi-omics+profiling-cj-sz.docx
 4_manuscript/Previous manuscripts/Precision+environmental+health+monitoring+by+longitudinal+exposome+and+multi-omics+profiling-cj-xt-pg-xt.docx
 4_manuscript/Previous manuscripts/Supplementary information.docx
-data_20200511/database/BloodExpsomeDatabase_version_1.0.csv
-data_20200511/database/BloodExpsomeDatabase_version_1.0.xlsx
-data_20200511/database/T3DB.csv
-data_20200511/database/targets.csv
-data_20200511/exposome/sample_collection_ca_map.pdf
-data_20200511/exposome/sample_collection_map.pdf
-data_20200511/gut_microbiome/rnaseq_log_data
-data_20200511/metabolome/hmdbMS1Database0.0.1
-Exposome_databases/BloodExpsomeDatabase_version_1.0.xlsx
-Exposome_databases/HBM4EU_CECscreen_DB_v3.1.xlsx
-Exposome_databases/HBM4EU_CECscreen_MetabolitesDB_v1.0.xlsx
-Exposome_databases/NORMAN SusDat.csv
-Exposome_databases/PubChemLite_31Oct2020_exposomics.csv
-Exposome_databases/T3DB.csv
-Exposome_databases/targets.csv
