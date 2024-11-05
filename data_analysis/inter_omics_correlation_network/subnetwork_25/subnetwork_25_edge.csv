@@ -1,0 +1,6 @@
+"from","to","Correlation","p_value","fdr"
+"exposome_genus_Desulfosporosinus","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763
+"exposome_genus_Elaeis","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763
+"exposome_genus_Hassallia","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763
+"exposome_genus_Laurentiella","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763
+"exposome_genus_Peptoclostridium","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763

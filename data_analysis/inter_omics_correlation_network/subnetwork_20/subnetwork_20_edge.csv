@@ -1,0 +1,13 @@
+"from","to","Correlation","p_value","fdr"
+"exposome_genus_Epichloe","genus_unclassified_Coriobacteriaceae",-0.974679434480896,0.00481823046819854,2.31711243043294
+"exposome_genus_Tilletiaria","genus_unclassified_Coriobacteriaceae",-0.974679434480896,0.00481823046819854,2.31711243043294
+"exposome_genus_Didymobotryum","genus_unclassified_Coriobacteriaceae",-1,0.0166666666666667,1.77815125038364
+"exposome_genus_Glarea","genus_unclassified_Coriobacteriaceae",-1,0.0166666666666667,1.77815125038364
+"exposome_genus_Pleurotus","genus_unclassified_Coriobacteriaceae",-1,0.0166666666666667,1.77815125038364
+"PM0466","genus_unclassified_Coriobacteriaceae",1,0.0166666666666667,1.77815125038364
+"PM1062","genus_unclassified_Coriobacteriaceae",1,0.0166666666666667,1.77815125038364
+"PM1902","genus_unclassified_Coriobacteriaceae",1,0.0166666666666667,1.77815125038364
+"PM1936","genus_unclassified_Coriobacteriaceae",1,0.0166666666666667,1.77815125038364
+"PM2260","genus_unclassified_Coriobacteriaceae",1,0.0166666666666667,1.77815125038364
+"PM2325","genus_unclassified_Coriobacteriaceae",1,0.0166666666666667,1.77815125038364
+"PM2532","genus_unclassified_Coriobacteriaceae",-1,0.0166666666666667,1.77815125038364

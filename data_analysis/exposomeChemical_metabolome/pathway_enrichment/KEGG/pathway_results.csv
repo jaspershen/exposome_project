@@ -1,0 +1,34 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Aminoacyl-tRNA biosynthesis",48,1.4865,9,8.1882e-06,5.0868,0.00068781,0.00068781,0
+"Phenylalanine metabolism",10,0.30968,3,0.0028726,2.5417,0.23842,0.12065,0.35714
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,0.12387,2,0.0054168,2.2663,0.44418,0.15167,1
+"Lysine degradation",25,0.77419,3,0.039743,1.4007,1,0.8346,0
+"Arginine biosynthesis",14,0.43355,2,0.067442,1.1711,1,1,0.07614
+"Biosynthesis of unsaturated fatty acids",36,1.1148,3,0.097513,1.0109,1,1,0
+"Glycerophospholipid metabolism",36,1.1148,3,0.097513,1.0109,1,1,0.04318
+"Pantothenate and CoA biosynthesis",19,0.58839,2,0.11502,0.93924,1,1,0
+"Pyrimidine metabolism",39,1.2077,3,0.11713,0.93133,1,1,0.14395
+"Primary bile acid biosynthesis",46,1.4245,3,0.16792,0.77489,1,1,0.02368
+"D-Glutamine and D-glutamate metabolism",6,0.18581,1,0.17226,0.76382,1,1,0
+"Nitrogen metabolism",6,0.18581,1,0.17226,0.76382,1,1,0
+"Valine, leucine and isoleucine biosynthesis",8,0.24774,1,0.22294,0.65181,1,1,0
+"Taurine and hypotaurine metabolism",8,0.24774,1,0.22294,0.65181,1,1,0
+"Porphyrin and chlorophyll metabolism",30,0.92903,2,0.23733,0.62465,1,1,0.07465
+"Ubiquinone and other terpenoid-quinone biosynthesis",9,0.27871,1,0.24713,0.60708,1,1,0
+"Glyoxylate and dicarboxylate metabolism",32,0.99097,2,0.26067,0.58392,1,1,0.10582
+"Caffeine metabolism",10,0.30968,1,0.27058,0.5677,1,1,0
+"Biotin metabolism",10,0.30968,1,0.27058,0.5677,1,1,0
+"Cysteine and methionine metabolism",33,1.0219,2,0.27236,0.56486,1,1,0.10446
+"Glycine, serine and threonine metabolism",33,1.0219,2,0.27236,0.56486,1,1,0.24577
+"Arginine and proline metabolism",38,1.1768,2,0.33061,0.48068,1,1,0.11885
+"Tryptophan metabolism",41,1.2697,2,0.36505,0.43765,1,1,0.14305
+"Tyrosine metabolism",42,1.3006,2,0.3764,0.42435,1,1,0.13972
+"Butanoate metabolism",15,0.46452,1,0.37752,0.42306,1,1,0
+"Histidine metabolism",16,0.49548,1,0.39698,0.40123,1,1,0
+"beta-Alanine metabolism",21,0.65032,1,0.48571,0.31362,1,1,0
+"Pyruvate metabolism",22,0.68129,1,0.50186,0.29942,1,1,0.08398
+"Glutathione metabolism",28,0.8671,1,0.58881,0.23003,1,1,0.08873
+"Alanine, aspartate and glutamate metabolism",28,0.8671,1,0.58881,0.23003,1,1,0.11378
+"Purine metabolism",65,2.0129,2,0.60751,0.21645,1,1,0.01651
+"Arachidonic acid metabolism",36,1.1148,1,0.68199,0.16622,1,1,0.3135
+"Valine, leucine and isoleucine degradation",40,1.2387,1,0.72047,0.14238,1,1,0

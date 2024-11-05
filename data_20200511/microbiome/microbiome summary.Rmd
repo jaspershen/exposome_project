@@ -1,0 +1,37 @@
+---
+title: "microbiome summary"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Microbiome的分类
+
+Microbiome的quantitative table可以分为物种分类学(taxonomy)表、可操作分类单元(operational taxonomic unit, OTU)表、扩增序列变异(amplicon sequence variant, ASV)表、基因丰度(gene abundance)表和通路丰度(pathway abundance)表等。
+
+特征表转换为多样性和/或差异特征。例如，微生物组研究中扩增序列变异表和基因丰度表仍然很大，因此研究者常采用 Alpha 或 Beta 多样性分析、物种或功能层级注释、差异比较等方法，将数据表进一步降维至 101~103。该数据结果更方便研究者运用专业知识挖掘规律和解释生物学问题。
+
+
+
+界(Kingdom)
+
+门(phylumn)
+
+纲(class)
+
+目(order)
+
+科(family)
+
+属(genus)
+
+种(species)
+
+对每个样品在7个分类水平（界、门、纲、目、科、属、种）（Kingdom, Phylum, Class, Order, Family, Genus, Species)上的序列数目占总序列数的比例进行统计，可以有效的评估样本的物种注释分辨率（注释到属/种的比例越高表示样本的注释效果越好）。使用R软件ggplot2包中的ggplot函数可对示例样本在各分类水平注释的相对程度进行堆叠图绘制，可视化结果如下：
+
+作者：恰童学少年
+链接：https://www.jianshu.com/p/04065914220b
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

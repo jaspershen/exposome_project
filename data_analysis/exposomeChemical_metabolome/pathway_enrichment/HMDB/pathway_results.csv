@@ -1,0 +1,36 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Carnitine Synthesis",16,1.0783,4,0.018535,1.732,1,1,0.21176
+"Alpha Linolenic Acid and Linoleic Acid Metabolism",16,1.0783,3,0.087159,1.0597,1,1,0.20741
+"Biotin Metabolism",7,0.47175,1,0.38732,0.41193,1,1,0
+"Phospholipid Biosynthesis",25,1.6848,2,0.51202,0.29072,1,1,0.037572
+"Phenylalanine and Tyrosine Metabolism",25,1.6848,2,0.51202,0.29072,1,1,0.22124
+"Beta-Alanine Metabolism",26,1.7522,2,0.5336,0.27278,1,1,0
+"Phosphatidylethanolamine Biosynthesis",13,0.87611,1,0.59855,0.2229,1,1,0
+"Beta Oxidation of Very Long Chain Fatty Acids",13,0.87611,1,0.59855,0.2229,1,1,0.049458
+"Catecholamine Biosynthesis",14,0.94351,1,0.62596,0.20346,1,1,0
+"Alanine Metabolism",14,0.94351,1,0.62596,0.20346,1,1,0
+"Butyrate Metabolism",16,1.0783,1,0.67536,0.17047,1,1,0
+"Porphyrin Metabolism",36,2.4262,2,0.71326,0.14675,1,1,0.054945
+"Betaine Metabolism",18,1.2131,1,0.71832,0.14368,1,1,0
+"Phosphatidylcholine Biosynthesis",18,1.2131,1,0.71832,0.14368,1,1,0
+"Glutathione Metabolism",19,1.2805,1,0.73765,0.13215,1,1,0.061084
+"Methionine Metabolism",39,2.6283,2,0.75469,0.12223,1,1,0.0089962
+"Lysine Degradation",20,1.3479,1,0.75567,0.12167,1,1,0
+"Oxidation of Branched Chain Fatty Acids",22,1.4827,1,0.78813,0.1034,1,1,0
+"Urea Cycle",23,1.55,1,0.80273,0.095433,1,1,0.073969
+"Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",24,1.6174,1,0.81633,0.088134,1,1,0
+"Ammonia Recycling",25,1.6848,1,0.82901,0.08144,1,1,0
+"Arginine and Proline Metabolism",48,3.2349,2,0.84975,0.070707,1,1,0.12046
+"Glycine and Serine Metabolism",50,3.3697,2,0.86579,0.062586,1,1,0.0477
+"Fatty Acid Biosynthesis",33,2.224,1,0.90378,0.043936,1,1,0.024864
+"Aspartate Metabolism",34,2.2914,1,0.91049,0.040726,1,1,0
+"Histidine Metabolism",35,2.3588,1,0.91673,0.037759,1,1,0.010181
+"Bile Acid Biosynthesis",59,3.9762,2,0.92047,0.035992,1,1,0.0016897
+"Purine Metabolism",63,4.2458,2,0.93742,0.028066,1,1,0.022366
+"Fatty Acid Metabolism",40,2.6957,1,0.94206,0.025923,1,1,0
+"Glutamate Metabolism",45,3.0327,1,0.95976,0.017838,1,1,0
+"Valine, Leucine and Isoleucine Degradation",51,3.4371,1,0.97409,0.011403,1,1,0
+"Pyrimidine Metabolism",54,3.6392,1,0.97923,0.0091168,1,1,0.035536
+"Tyrosine Metabolism",55,3.7066,1,0.98071,0.0084613,1,1,0
+"Tryptophan Metabolism",55,3.7066,1,0.98071,0.0084613,1,1,0
+"Arachidonic Acid Metabolism",65,4.3806,1,0.99082,0.0040039,1,1,0.30248

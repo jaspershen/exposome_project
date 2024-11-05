@@ -1,0 +1,10 @@
+"from","to","Correlation","p_value","fdr"
+"exposome_genus_Albophoma","genus_unclassified_Erysipelotrichaceae",-0.917662935482247,0.0280084560101462,1.55271083136763
+"exposome_genus_Cyberlindnera","genus_unclassified_Erysipelotrichaceae",0.947368421052632,0.0143795336199305,1.84225519945907
+"exposome_genus_Cyberlindnera","genus_Clostridium.XVIII",-0.974679434480896,0.00481823046819854,2.23793118438531
+"exposome_genus_Cyberlindnera","class_Deltaproteobacteria",-0.974679434480896,0.00481823046819854,2.23793118438531
+"exposome_genus_Cyberlindnera","order_Desulfovibrionales",-0.974679434480896,0.00481823046819854,2.23793118438531
+"exposome_genus_Cyberlindnera","family_Desulfovibrionaceae",-0.974679434480896,0.00481823046819854,2.23793118438531
+"exposome_genus_Cyberlindnera","genus_unclassified_Porphyromonadaceae",0.974679434480896,0.00481823046819854,2.23793118438531
+"exposome_genus_Ornithinibacillus","genus_unclassified_Erysipelotrichaceae",-0.917662935482247,0.0280084560101462,1.55271083136763
+"exposome_genus_Rhinocladiella","genus_unclassified_Erysipelotrichaceae",-0.921052631578948,0.0263105196855778,1.57987057364179

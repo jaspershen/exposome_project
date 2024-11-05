@@ -1,0 +1,514 @@
+"from","to","Correlation","p_value","fdr","from_class","from_name","to_class","to_name","from_num","to_num"
+"NM1254","Glucose._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (chemical)","Salicylic acid","Blood test","Glucose",2,16
+"NM1254","Calcium._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (chemical)","Salicylic acid","Blood test","Calcium",2,5
+"NM1446","HDL_Cholesterol",1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Trimethyl Phosphate","Blood test","High-density lipoprotein",1,12
+"NM2680","Glucose._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Tetrachloroethylene","Blood test","Glucose",1,16
+"NM3057","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Acephate","Blood test","High-density lipoprotein",1,12
+"NM3853","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Dinoseb","Blood test","High-density lipoprotein",1,12
+"NM4337","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Zeranol","Blood test","High-density lipoprotein",1,12
+"PM1171","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Triethyl phosphate","Blood test","Mean corpuscular hemoglobin",1,21
+"PM1307","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Dibromoethane","Blood test","Glucose",1,16
+"PM1935","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Pymetrozin","Blood test","High-density lipoprotein",1,12
+"PM2296","BASO._.",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Cyproconazole","Blood test","Percentage of basophils",1,10
+"PM2541","Hematocrit",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Amoxicillin","Blood test","Hematocrit",5,26
+"PM2541","Platelet_count",1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Amoxicillin","Blood test","Platelet",5,26
+"PM2541","RDW",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Amoxicillin","Blood test","Red blood cell distribution width",5,26
+"PM2541","Alk_P.TASE._Total._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Amoxicillin","Blood test","Total alkaline phosphatase",5,26
+"PM2541","Albumin._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (chemical)","Amoxicillin","Blood test","Albumin",5,26
+"PM3067","Total_Bilirubin",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (chemical)","Tetrabromobisphenol A diallyl ether","Blood test","Total bilirubin",3,28
+"PM3067","Hemoglobin_A1c",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (chemical)","Tetrabromobisphenol A diallyl ether","Blood test","Glycated hemoglobin",3,28
+"PM3067","LDL.HDL_Ratio",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (chemical)","Tetrabromobisphenol A diallyl ether","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Acidomyces","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Acidomyces","Blood test","Creatinine",1,62
+"genus_Acinetobacter","Glucose._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Acinetobacter","Blood test","Glucose",1,16
+"genus_Acremonium","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Acremonium","Blood test","Hematocrit",5,26
+"genus_Acremonium","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Acremonium","Blood test","Platelet",5,26
+"genus_Acremonium","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Acremonium","Blood test","Red blood cell distribution width",5,26
+"genus_Acremonium","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Acremonium","Blood test","Total alkaline phosphatase",5,26
+"genus_Acremonium","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Acremonium","Blood test","Albumin",5,26
+"genus_Actinidia","HDL_Cholesterol",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Actinidia","Blood test","High-density lipoprotein",1,12
+"genus_Actinoplanes","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Actinoplanes","Blood test","Creatinine",1,62
+"genus_Aegilops","NEUT._.",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Aegilops","Blood test","Percentage of neutrophils",3,2
+"genus_Aegilops","NEUT._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Aegilops","Blood test","Absolute neutrophil",3,2
+"genus_Aegilops","Sodium._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Aegilops","Blood test","Sodium",3,2
+"genus_Aliterella","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Aliterella","Blood test","Total bilirubin",3,28
+"genus_Aliterella","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Aliterella","Blood test","Glycated hemoglobin",3,28
+"genus_Aliterella","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Aliterella","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Alkanindiges","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Alkanindiges","Blood test","Creatinine",1,62
+"genus_Ananas","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ananas","Blood test","Total bilirubin",3,28
+"genus_Ananas","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ananas","Blood test","Glycated hemoglobin",3,28
+"genus_Ananas","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ananas","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Anthracocystis","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Anthracocystis","Blood test","Total bilirubin",3,28
+"genus_Anthracocystis","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Anthracocystis","Blood test","Glycated hemoglobin",3,28
+"genus_Anthracocystis","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Anthracocystis","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Arcticibacter","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Arcticibacter","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Armillaria","BASO._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Armillaria","Blood test","Percentage of basophils",6,10
+"genus_Armillaria","LYM._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Armillaria","Blood test","Absolute lymphocyte",6,5
+"genus_Armillaria","Urea_Nitrogen.Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Armillaria","Blood test","Urea nitrogen",6,5
+"genus_Armillaria","Protein._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Armillaria","Blood test","Total protein",6,5
+"genus_Armillaria","Non.HDL_Chol._Calc",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Armillaria","Blood test","Non-high-density lipoprotein cholesterol",6,5
+"genus_Armillaria","Cholesterol.HDL_Ratio",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Armillaria","Blood test","Cholesterol to high-density lipoprotein ratio",6,5
+"genus_Arthrobacter","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Arthrobacter","Blood test","Creatinine",1,62
+"genus_Arthroderma","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Arthroderma","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Ascochyta","MCHC",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ascochyta","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Ascochyta","Globulin",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ascochyta","Blood test","Globulin",2,13
+"genus_Ascocoryne","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ascocoryne","Blood test","Total bilirubin",3,28
+"genus_Ascocoryne","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ascocoryne","Blood test","Glycated hemoglobin",3,28
+"genus_Ascocoryne","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ascocoryne","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Athelia","LDL_.Calculated.",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Athelia","Blood test","Low-density lipoprotein",1,5
+"genus_Aureobasidium","EOS._.",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Aureobasidium","Blood test","Percentage of eosinophils",3,9
+"genus_Aureobasidium","EOS._ABS",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Aureobasidium","Blood test","Absolute eosinophils",3,9
+"genus_Aureobasidium","CO2._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Aureobasidium","Blood test","Carbon dioxide",3,9
+"genus_Auricularia","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Auricularia","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Bacillus","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Bacillus","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Baeospora","MCHC",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Baeospora","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Baeospora","Globulin",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Baeospora","Blood test","Globulin",2,13
+"genus_Biomphalaria","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Biomphalaria","Blood test","Hemoglobin",3,18
+"genus_Biomphalaria","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Biomphalaria","Blood test","Red blood cell count",3,18
+"genus_Biomphalaria","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Biomphalaria","Blood test","Creatinine",3,62
+"genus_Bipolaris","MCHC",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Bipolaris","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Bipolaris","Globulin",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Bipolaris","Blood test","Globulin",2,13
+"genus_Botrytis","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Botrytis","Blood test","Hemoglobin",3,18
+"genus_Botrytis","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Botrytis","Blood test","Red blood cell count",3,18
+"genus_Botrytis","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Botrytis","Blood test","Creatinine",3,62
+"genus_Brassica","MONO._.",-0.974679434480896,0.00481823046819854,2.09526368081658,"Exposome (biological)","Brassica","Blood test","Percentage ofmonocytes",5,1
+"genus_Brassica","Potassium._Ser.Plas",0.947368421052632,0.0143795336199305,1.74534518645101,"Exposome (biological)","Brassica","Blood test","Potassium",5,7
+"genus_Brassica","Anion_Gap",-0.974679434480896,0.00481823046819854,2.09526368081658,"Exposome (biological)","Brassica","Blood test","Anion gap",5,1
+"genus_Brassica","Cholesterol._Total",-0.974679434480896,0.00481823046819854,2.09526368081658,"Exposome (biological)","Brassica","Blood test","Total cholesterol",5,1
+"genus_Brassica","LDL_.Calculated.",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Brassica","Blood test","Low-density lipoprotein",5,5
+"genus_Brevibacillus","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Brevibacillus","Blood test","Hemoglobin",3,18
+"genus_Brevibacillus","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Brevibacillus","Blood test","Red blood cell count",3,18
+"genus_Brevibacillus","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Brevibacillus","Blood test","Creatinine",3,62
+"genus_Bulleromyces","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Bulleromyces","Blood test","Hematocrit",5,26
+"genus_Bulleromyces","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Bulleromyces","Blood test","Platelet",5,26
+"genus_Bulleromyces","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Bulleromyces","Blood test","Red blood cell distribution width",5,26
+"genus_Bulleromyces","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Bulleromyces","Blood test","Total alkaline phosphatase",5,26
+"genus_Bulleromyces","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Bulleromyces","Blood test","Albumin",5,26
+"genus_Burkholderia","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Burkholderia","Blood test","Total bilirubin",3,28
+"genus_Burkholderia","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Burkholderia","Blood test","Glycated hemoglobin",3,28
+"genus_Burkholderia","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Burkholderia","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Byssochlamys","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Byssochlamys","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Calocera","Total_Bilirubin",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Calocera","Blood test","Total bilirubin",3,28
+"genus_Calocera","Hemoglobin_A1c",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Calocera","Blood test","Glycated hemoglobin",3,28
+"genus_Calocera","LDL.HDL_Ratio",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Calocera","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Canis","Hemoglobin",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Canis","Blood test","Hemoglobin",3,18
+"genus_Canis","RBC",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Canis","Blood test","Red blood cell count",3,18
+"genus_Canis","Creatinine._Ser.Plas",-0.974679434480896,0.00481823046819854,1.83999117571327,"Exposome (biological)","Canis","Blood test","Creatinine",3,62
+"genus_Capnocytophaga","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Capnocytophaga","Blood test","Hemoglobin",3,18
+"genus_Capnocytophaga","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Capnocytophaga","Blood test","Red blood cell count",3,18
+"genus_Capnocytophaga","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Capnocytophaga","Blood test","Creatinine",3,62
+"genus_Capronia","BASOS._ABS",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Capronia","Blood test","Absolute basophils",1,8
+"genus_Cenococcum","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cenococcum","Blood test","Hematocrit",5,26
+"genus_Cenococcum","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cenococcum","Blood test","Platelet",5,26
+"genus_Cenococcum","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cenococcum","Blood test","Red blood cell distribution width",5,26
+"genus_Cenococcum","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cenococcum","Blood test","Total alkaline phosphatase",5,26
+"genus_Cenococcum","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cenococcum","Blood test","Albumin",5,26
+"genus_Ceraceosorus","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Ceraceosorus","Blood test","Hemoglobin",3,18
+"genus_Ceraceosorus","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Ceraceosorus","Blood test","Red blood cell count",3,18
+"genus_Ceraceosorus","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Ceraceosorus","Blood test","Creatinine",3,62
+"genus_Cercospora","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cercospora","Blood test","Hematocrit",5,26
+"genus_Cercospora","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cercospora","Blood test","Platelet",5,26
+"genus_Cercospora","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cercospora","Blood test","Red blood cell distribution width",5,26
+"genus_Cercospora","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cercospora","Blood test","Total alkaline phosphatase",5,26
+"genus_Cercospora","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cercospora","Blood test","Albumin",5,26
+"genus_Chaetomium","Total_Bilirubin",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Chaetomium","Blood test","Total bilirubin",3,28
+"genus_Chaetomium","Hemoglobin_A1c",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Chaetomium","Blood test","Glycated hemoglobin",3,28
+"genus_Chaetomium","LDL.HDL_Ratio",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Chaetomium","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Chitinophaga","MCHC",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Chitinophaga","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Chitinophaga","Globulin",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Chitinophaga","Blood test","Globulin",2,13
+"genus_Chryseobacterium","BASOS._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Chryseobacterium","Blood test","Absolute basophils",1,8
+"genus_Clonostachys","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Clonostachys","Blood test","Creatinine",1,62
+"genus_Colletotrichum","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Colletotrichum","Blood test","Hematocrit",5,26
+"genus_Colletotrichum","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Colletotrichum","Blood test","Platelet",5,26
+"genus_Colletotrichum","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Colletotrichum","Blood test","Red blood cell distribution width",5,26
+"genus_Colletotrichum","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Colletotrichum","Blood test","Total alkaline phosphatase",5,26
+"genus_Colletotrichum","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Colletotrichum","Blood test","Albumin",5,26
+"genus_Coniophora","MCHC",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Coniophora","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Coniophora","Globulin",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Coniophora","Blood test","Globulin",2,13
+"genus_Coniosporium","EOS._.",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Coniosporium","Blood test","Percentage of eosinophils",3,9
+"genus_Coniosporium","EOS._ABS",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Coniosporium","Blood test","Absolute eosinophils",3,9
+"genus_Coniosporium","CO2._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Coniosporium","Blood test","Carbon dioxide",3,9
+"genus_Cordyceps","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Cordyceps","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Cryomyces","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Cryomyces","Blood test","Creatinine",1,62
+"genus_Curvularia","LYM._.",0.974679434480896,0.00481823046819854,2.01608243476895,"Exposome (biological)","Curvularia","Blood test","Percentage of lymphocytes",2,1
+"genus_Curvularia","BASOS._ABS",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Curvularia","Blood test","Absolute basophils",2,8
+"genus_Cyphellophora","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Cyphellophora","Blood test","Creatinine",1,62
+"genus_Cystobasidiopsis","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Cystobasidiopsis","Blood test","Hemoglobin",3,18
+"genus_Cystobasidiopsis","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Cystobasidiopsis","Blood test","Red blood cell count",3,18
+"genus_Cystobasidiopsis","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Cystobasidiopsis","Blood test","Creatinine",3,62
+"genus_Cystobasidium","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Cystobasidium","Blood test","Hemoglobin",3,18
+"genus_Cystobasidium","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Cystobasidium","Blood test","Red blood cell count",3,18
+"genus_Cystobasidium","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Cystobasidium","Blood test","Creatinine",3,62
+"genus_Daedalea","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Daedalea","Blood test","Glucose",1,16
+"genus_Dendrobium","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Dendrobium","Blood test","Creatinine",1,62
+"genus_Desmospora","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Desmospora","Blood test","Creatinine",1,62
+"genus_Desulfosporosinus","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Desulfosporosinus","Blood test","Potassium",1,7
+"genus_Diaporthe","Hemoglobin",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Diaporthe","Blood test","Hemoglobin",3,18
+"genus_Diaporthe","RBC",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Diaporthe","Blood test","Red blood cell count",3,18
+"genus_Diaporthe","Creatinine._Ser.Plas",0.974679434480896,0.00481823046819854,1.83999117571327,"Exposome (biological)","Diaporthe","Blood test","Creatinine",3,62
+"genus_Dichomitus","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Dichomitus","Blood test","Glucose",1,16
+"genus_Dioszegia","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Dioszegia","Blood test","Creatinine",1,62
+"genus_Diplodia","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Diplodia","Blood test","Hematocrit",5,26
+"genus_Diplodia","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Diplodia","Blood test","Platelet",5,26
+"genus_Diplodia","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Diplodia","Blood test","Red blood cell distribution width",5,26
+"genus_Diplodia","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Diplodia","Blood test","Total alkaline phosphatase",5,26
+"genus_Diplodia","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Diplodia","Blood test","Albumin",5,26
+"genus_Dolosigranulum","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Dolosigranulum","Blood test","Total bilirubin",3,28
+"genus_Dolosigranulum","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Dolosigranulum","Blood test","Glycated hemoglobin",3,28
+"genus_Dolosigranulum","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Dolosigranulum","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Dothistroma","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Dothistroma","Blood test","Hematocrit",5,26
+"genus_Dothistroma","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Dothistroma","Blood test","Platelet",5,26
+"genus_Dothistroma","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Dothistroma","Blood test","Red blood cell distribution width",5,26
+"genus_Dothistroma","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Dothistroma","Blood test","Total alkaline phosphatase",5,26
+"genus_Dothistroma","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Dothistroma","Blood test","Albumin",5,26
+"genus_Drechslerella","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Drechslerella","Blood test","Total bilirubin",3,28
+"genus_Drechslerella","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Drechslerella","Blood test","Glycated hemoglobin",3,28
+"genus_Drechslerella","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Drechslerella","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Elaeis","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Elaeis","Blood test","Potassium",1,7
+"genus_Emmonsia","EOS._.",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Emmonsia","Blood test","Percentage of eosinophils",4,9
+"genus_Emmonsia","EOS._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Emmonsia","Blood test","Absolute eosinophils",4,9
+"genus_Emmonsia","Chloride._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Emmonsia","Blood test","Chloride",4,5
+"genus_Emmonsia","CO2._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Emmonsia","Blood test","Carbon dioxide",4,9
+"genus_Endocarpon","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Endocarpon","Blood test","Creatinine",1,62
+"genus_Enterococcus","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Enterococcus","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Epichloe","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Epichloe","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Erythrobasidium","Creatinine._Ser.Plas",0.974679434480896,0.00481823046819854,1.83999117571327,"Exposome (biological)","Erythrobasidium","Blood test","Creatinine",3,62
+"genus_Erythrobasidium","AST_.SGOT.._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Erythrobasidium","Blood test","Aspartate aminotransferase (serum glutamic oxaloacetic transaminase)",3,5
+"genus_Erythrobasidium","ALT_.SGPT.._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Erythrobasidium","Blood test","Alanine aminotransferase (serum glutamic pyruvic transaminase)",3,5
+"genus_Escherichia","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Escherichia","Blood test","Total bilirubin",3,28
+"genus_Escherichia","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Escherichia","Blood test","Glycated hemoglobin",3,28
+"genus_Escherichia","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Escherichia","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Eutypa","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Eutypa","Blood test","Hemoglobin",3,18
+"genus_Eutypa","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Eutypa","Blood test","Red blood cell count",3,18
+"genus_Eutypa","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Eutypa","Blood test","Creatinine",3,62
+"genus_Exidia","Calcium._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Exidia","Blood test","Calcium",1,5
+"genus_Exophiala","eGFR",-0.948683298050514,0.0138468329888591,1.85864954593104,"Exposome (biological)","Exophiala","Blood test","Estimated glomerular filtration rate",2,4
+"genus_Exophiala","LDL_.Calculated.",0.974679434480896,0.00481823046819854,2.01608243476895,"Exposome (biological)","Exophiala","Blood test","Low-density lipoprotein",2,5
+"genus_Fibrella","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Fibrella","Blood test","Total bilirubin",3,28
+"genus_Fibrella","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Fibrella","Blood test","Glycated hemoglobin",3,28
+"genus_Fibrella","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Fibrella","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Filobasidiella","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Filobasidiella","Blood test","Hematocrit",5,26
+"genus_Filobasidiella","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Filobasidiella","Blood test","Platelet",5,26
+"genus_Filobasidiella","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Filobasidiella","Blood test","Red blood cell distribution width",5,26
+"genus_Filobasidiella","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Filobasidiella","Blood test","Total alkaline phosphatase",5,26
+"genus_Filobasidiella","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Filobasidiella","Blood test","Albumin",5,26
+"genus_Filobasidium","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Filobasidium","Blood test","Creatinine",1,62
+"genus_Flammulina","BASO._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Flammulina","Blood test","Percentage of basophils",6,10
+"genus_Flammulina","LYM._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Flammulina","Blood test","Absolute lymphocyte",6,5
+"genus_Flammulina","Urea_Nitrogen.Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Flammulina","Blood test","Urea nitrogen",6,5
+"genus_Flammulina","Protein._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Flammulina","Blood test","Total protein",6,5
+"genus_Flammulina","Non.HDL_Chol._Calc",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Flammulina","Blood test","Non-high-density lipoprotein cholesterol",6,5
+"genus_Flammulina","Cholesterol.HDL_Ratio",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Flammulina","Blood test","Cholesterol to high-density lipoprotein ratio",6,5
+"genus_Fomitopsis","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Fomitopsis","Blood test","Glucose",1,16
+"genus_Fragaria","NEUT._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Fragaria","Blood test","Percentage of neutrophils",3,2
+"genus_Fragaria","NEUT._ABS",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Fragaria","Blood test","Absolute neutrophil",3,2
+"genus_Fragaria","Sodium._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Fragaria","Blood test","Sodium",3,2
+"genus_Ganoderma","EOS._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ganoderma","Blood test","Percentage of eosinophils",3,9
+"genus_Ganoderma","EOS._ABS",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ganoderma","Blood test","Absolute eosinophils",3,9
+"genus_Ganoderma","CO2._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ganoderma","Blood test","Carbon dioxide",3,9
+"genus_Geotrichum","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Geotrichum","Blood test","Hematocrit",5,26
+"genus_Geotrichum","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Geotrichum","Blood test","Platelet",5,26
+"genus_Geotrichum","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Geotrichum","Blood test","Red blood cell distribution width",5,26
+"genus_Geotrichum","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Geotrichum","Blood test","Total alkaline phosphatase",5,26
+"genus_Geotrichum","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Geotrichum","Blood test","Albumin",5,26
+"genus_Gloeophyllum","BASO._.",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Gloeophyllum","Blood test","Percentage of basophils",1,10
+"genus_Glonium","EOS._.",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Glonium","Blood test","Percentage of eosinophils",3,9
+"genus_Glonium","EOS._ABS",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Glonium","Blood test","Absolute eosinophils",3,9
+"genus_Glonium","CO2._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Glonium","Blood test","Carbon dioxide",3,9
+"genus_Gongronella","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Gongronella","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Gossypium","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Gossypium","Blood test","Creatinine",1,62
+"genus_Graphilbum","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Graphilbum","Blood test","Creatinine",1,62
+"genus_Grifola","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Grifola","Blood test","Glucose",1,16
+"genus_Gyalolechia","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Gyalolechia","Blood test","Creatinine",1,62
+"genus_Haloferula","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Haloferula","Blood test","Creatinine",1,62
+"genus_Hassallia","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hassallia","Blood test","Potassium",1,7
+"genus_Hebeloma","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hebeloma","Blood test","Total bilirubin",3,28
+"genus_Hebeloma","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hebeloma","Blood test","Glycated hemoglobin",3,28
+"genus_Hebeloma","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hebeloma","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Helminthosporium","HDL_Cholesterol",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Helminthosporium","Blood test","High-density lipoprotein",1,12
+"genus_Heterobasidion","Glucose._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Heterobasidion","Blood test","Glucose",2,16
+"genus_Heterobasidion","Calcium._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Heterobasidion","Blood test","Calcium",2,5
+"genus_Hibiscus","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hibiscus","Blood test","Total bilirubin",3,28
+"genus_Hibiscus","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hibiscus","Blood test","Glycated hemoglobin",3,28
+"genus_Hibiscus","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Hibiscus","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Hirsutella","MCHC",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Hirsutella","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Hirsutella","Globulin",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Hirsutella","Blood test","Globulin",2,13
+"genus_Hordeum","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Hordeum","Blood test","High-density lipoprotein",1,12
+"genus_Humulus","MCV",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Humulus","Blood test","Mean corpuscular volume",1,6
+"genus_Hymenobacter","Chloride._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Hymenobacter","Blood test","Chloride",1,5
+"genus_Hymenoscyphus","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Hymenoscyphus","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Hypsizygus","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Hypsizygus","Blood test","High-density lipoprotein",1,12
+"genus_Hysterium","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Hysterium","Blood test","Hemoglobin",3,18
+"genus_Hysterium","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Hysterium","Blood test","Red blood cell count",3,18
+"genus_Hysterium","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Hysterium","Blood test","Creatinine",3,62
+"genus_Jaapia","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Jaapia","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Juglans","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Juglans","Blood test","Creatinine",3,62
+"genus_Juglans","AST_.SGOT.._Ser.Plas",-0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Juglans","Blood test","Aspartate aminotransferase (serum glutamic oxaloacetic transaminase)",3,5
+"genus_Juglans","ALT_.SGPT.._Ser.Plas",-0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Juglans","Blood test","Alanine aminotransferase (serum glutamic pyruvic transaminase)",3,5
+"genus_Kalmanozyma","BASOS._ABS",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Kalmanozyma","Blood test","Absolute basophils",1,8
+"genus_Klebsiella","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Klebsiella","Blood test","Creatinine",1,62
+"genus_Kwoniella","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Kwoniella","Blood test","Creatinine",1,62
+"genus_Lactobacillus","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Lactobacillus","Blood test","Creatinine",1,62
+"genus_Lasallia","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Lasallia","Blood test","Creatinine",1,62
+"genus_Laurentiella","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Laurentiella","Blood test","Potassium",1,7
+"genus_Lecanosticta","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lecanosticta","Blood test","Hematocrit",5,26
+"genus_Lecanosticta","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lecanosticta","Blood test","Platelet",5,26
+"genus_Lecanosticta","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lecanosticta","Blood test","Red blood cell distribution width",5,26
+"genus_Lecanosticta","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lecanosticta","Blood test","Total alkaline phosphatase",5,26
+"genus_Lecanosticta","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lecanosticta","Blood test","Albumin",5,26
+"genus_Legionella","Hemoglobin",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Legionella","Blood test","Hemoglobin",3,18
+"genus_Legionella","RBC",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Legionella","Blood test","Red blood cell count",3,18
+"genus_Legionella","Creatinine._Ser.Plas",0.974679434480896,0.00481823046819854,1.83999117571327,"Exposome (biological)","Legionella","Blood test","Creatinine",3,62
+"genus_Lepidopterella","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lepidopterella","Blood test","Hematocrit",5,26
+"genus_Lepidopterella","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lepidopterella","Blood test","Platelet",5,26
+"genus_Lepidopterella","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lepidopterella","Blood test","Red blood cell distribution width",5,26
+"genus_Lepidopterella","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lepidopterella","Blood test","Total alkaline phosphatase",5,26
+"genus_Lepidopterella","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Lepidopterella","Blood test","Albumin",5,26
+"genus_Leptographium","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Leptographium","Blood test","Hemoglobin",3,18
+"genus_Leptographium","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Leptographium","Blood test","Red blood cell count",3,18
+"genus_Leptographium","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Leptographium","Blood test","Creatinine",3,62
+"genus_Leptosphaeria","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Leptosphaeria","Blood test","Creatinine",1,62
+"genus_Leptoxyphium","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leptoxyphium","Blood test","Hematocrit",5,26
+"genus_Leptoxyphium","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leptoxyphium","Blood test","Platelet",5,26
+"genus_Leptoxyphium","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leptoxyphium","Blood test","Red blood cell distribution width",5,26
+"genus_Leptoxyphium","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leptoxyphium","Blood test","Total alkaline phosphatase",5,26
+"genus_Leptoxyphium","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leptoxyphium","Blood test","Albumin",5,26
+"genus_Leucoagaricus","BASO._.",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Leucoagaricus","Blood test","Percentage of basophils",1,10
+"genus_Leucosporidium","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leucosporidium","Blood test","Hematocrit",5,26
+"genus_Leucosporidium","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leucosporidium","Blood test","Platelet",5,26
+"genus_Leucosporidium","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leucosporidium","Blood test","Red blood cell distribution width",5,26
+"genus_Leucosporidium","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leucosporidium","Blood test","Total alkaline phosphatase",5,26
+"genus_Leucosporidium","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Leucosporidium","Blood test","Albumin",5,26
+"genus_Lotus","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Lotus","Blood test","Total bilirubin",3,28
+"genus_Lotus","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Lotus","Blood test","Glycated hemoglobin",3,28
+"genus_Lotus","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Lotus","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Madurella","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Madurella","Blood test","Hematocrit",5,26
+"genus_Madurella","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Madurella","Blood test","Platelet",5,26
+"genus_Madurella","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Madurella","Blood test","Red blood cell distribution width",5,26
+"genus_Madurella","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Madurella","Blood test","Total alkaline phosphatase",5,26
+"genus_Madurella","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Madurella","Blood test","Albumin",5,26
+"genus_Magnaporthe","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Magnaporthe","Blood test","Creatinine",1,62
+"genus_Magnaporthiopsis","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Magnaporthiopsis","Blood test","Creatinine",1,62
+"genus_Marchantia","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Marchantia","Blood test","Total bilirubin",3,28
+"genus_Marchantia","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Marchantia","Blood test","Glycated hemoglobin",3,28
+"genus_Marchantia","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Marchantia","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Massilia","MONO._ABS",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Massilia","Blood test","Absolute monocytes",3,1
+"genus_Massilia","Potassium._Ser.Plas",-0.974679434480896,0.00481823046819854,1.83999117571327,"Exposome (biological)","Massilia","Blood test","Potassium",3,7
+"genus_Massilia","eGFR",-0.948683298050514,0.0138468329888591,1.77815125038364,"Exposome (biological)","Massilia","Blood test","Estimated glomerular filtration rate",3,4
+"genus_Melampsora","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Melampsora","Blood test","Hemoglobin",3,18
+"genus_Melampsora","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Melampsora","Blood test","Red blood cell count",3,18
+"genus_Melampsora","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Melampsora","Blood test","Creatinine",3,62
+"genus_Microdochium","WBC",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microdochium","Blood test","White blood cell count",2,3
+"genus_Microdochium","MCV",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microdochium","Blood test","Mean corpuscular volume",2,6
+"genus_Microvirga","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microvirga","Blood test","Hematocrit",5,26
+"genus_Microvirga","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microvirga","Blood test","Platelet",5,26
+"genus_Microvirga","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microvirga","Blood test","Red blood cell distribution width",5,26
+"genus_Microvirga","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microvirga","Blood test","Total alkaline phosphatase",5,26
+"genus_Microvirga","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Microvirga","Blood test","Albumin",5,26
+"genus_Muricauda","BASOS._ABS",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Muricauda","Blood test","Absolute basophils",1,8
+"genus_Myceliophthora","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Myceliophthora","Blood test","Creatinine",1,62
+"genus_Mycena","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Mycena","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Mycobacterium","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Mycobacterium","Blood test","Total bilirubin",3,28
+"genus_Mycobacterium","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Mycobacterium","Blood test","Glycated hemoglobin",3,28
+"genus_Mycobacterium","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Mycobacterium","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Mycosphaerella","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Mycosphaerella","Blood test","Hematocrit",5,26
+"genus_Mycosphaerella","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Mycosphaerella","Blood test","Platelet",5,26
+"genus_Mycosphaerella","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Mycosphaerella","Blood test","Red blood cell distribution width",5,26
+"genus_Mycosphaerella","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Mycosphaerella","Blood test","Total alkaline phosphatase",5,26
+"genus_Mycosphaerella","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Mycosphaerella","Blood test","Albumin",5,26
+"genus_Necator","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Necator","Blood test","Creatinine",1,62
+"genus_Neofusicoccum","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Neofusicoccum","Blood test","Hematocrit",5,26
+"genus_Neofusicoccum","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Neofusicoccum","Blood test","Platelet",5,26
+"genus_Neofusicoccum","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Neofusicoccum","Blood test","Red blood cell distribution width",5,26
+"genus_Neofusicoccum","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Neofusicoccum","Blood test","Total alkaline phosphatase",5,26
+"genus_Neofusicoccum","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Neofusicoccum","Blood test","Albumin",5,26
+"genus_Neolentinus","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Neolentinus","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Neonectria","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Neonectria","Blood test","Creatinine",1,62
+"genus_Neurospora","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Neurospora","Blood test","Creatinine",1,62
+"genus_Niabella","MCHC",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Niabella","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Niabella","Globulin",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Niabella","Blood test","Globulin",2,13
+"genus_Niastella","EOS._.",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Niastella","Blood test","Percentage of eosinophils",3,9
+"genus_Niastella","EOS._ABS",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Niastella","Blood test","Absolute eosinophils",3,9
+"genus_Niastella","CO2._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Niastella","Blood test","Carbon dioxide",3,9
+"genus_Ochroconis","WBC",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ochroconis","Blood test","White blood cell count",2,3
+"genus_Ochroconis","MCV",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ochroconis","Blood test","Mean corpuscular volume",2,6
+"genus_Omphalotus","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Omphalotus","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Onygena","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Onygena","Blood test","Glucose",1,16
+"genus_Oropetium","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Oropetium","Blood test","Total bilirubin",3,28
+"genus_Oropetium","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Oropetium","Blood test","Glycated hemoglobin",3,28
+"genus_Oropetium","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Oropetium","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Pantoea","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pantoea","Blood test","Creatinine",1,62
+"genus_Paraphoma","MCHC",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Paraphoma","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Paraphoma","Globulin",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Paraphoma","Blood test","Globulin",2,13
+"genus_Parastagonospora","eGFR",-0.973328526784575,0.00520785894466274,1.98231079152247,"Exposome (biological)","Parastagonospora","Blood test","Estimated glomerular filtration rate",2,4
+"genus_Parastagonospora","LDL_.Calculated.",0.947368421052632,0.0143795336199305,1.84225519945907,"Exposome (biological)","Parastagonospora","Blood test","Low-density lipoprotein",2,5
+"genus_Passalora","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Passalora","Blood test","Hematocrit",5,26
+"genus_Passalora","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Passalora","Blood test","Platelet",5,26
+"genus_Passalora","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Passalora","Blood test","Red blood cell distribution width",5,26
+"genus_Passalora","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Passalora","Blood test","Total alkaline phosphatase",5,26
+"genus_Passalora","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Passalora","Blood test","Albumin",5,26
+"genus_Paxillus","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Paxillus","Blood test","Total bilirubin",3,28
+"genus_Paxillus","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Paxillus","Blood test","Glycated hemoglobin",3,28
+"genus_Paxillus","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Paxillus","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Pedobacter","Hematocrit",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pedobacter","Blood test","Hematocrit",5,26
+"genus_Pedobacter","Platelet_count",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pedobacter","Blood test","Platelet",5,26
+"genus_Pedobacter","RDW",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pedobacter","Blood test","Red blood cell distribution width",5,26
+"genus_Pedobacter","Alk_P.TASE._Total._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pedobacter","Blood test","Total alkaline phosphatase",5,26
+"genus_Pedobacter","Albumin._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pedobacter","Blood test","Albumin",5,26
+"genus_Peltaster","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Peltaster","Blood test","Creatinine",1,62
+"genus_Penstemon","MCHC",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Penstemon","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Penstemon","Globulin",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Penstemon","Blood test","Globulin",2,13
+"genus_Peptoclostridium","Potassium._Ser.Plas",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Peptoclostridium","Blood test","Potassium",1,7
+"genus_Pestalotiopsis","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pestalotiopsis","Blood test","Creatinine",1,62
+"genus_Phaeoacremonium","Total_Bilirubin",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Phaeoacremonium","Blood test","Total bilirubin",3,28
+"genus_Phaeoacremonium","Hemoglobin_A1c",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Phaeoacremonium","Blood test","Glycated hemoglobin",3,28
+"genus_Phaeoacremonium","LDL.HDL_Ratio",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Phaeoacremonium","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Phanerochaete","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Phanerochaete","Blood test","Glucose",1,16
+"genus_Phellinus","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Phellinus","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Phoma","MCHC",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Phoma","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Phoma","Globulin",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Phoma","Blood test","Globulin",2,13
+"genus_Phyllosticta","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Phyllosticta","Blood test","Creatinine",1,62
+"genus_Physarum","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Physarum","Blood test","Total bilirubin",3,28
+"genus_Physarum","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Physarum","Blood test","Glycated hemoglobin",3,28
+"genus_Physarum","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Physarum","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Pisolithus","BASO._.",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pisolithus","Blood test","Percentage of basophils",1,10
+"genus_Plicaturopsis","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Plicaturopsis","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Plutella","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Plutella","Blood test","Total bilirubin",3,28
+"genus_Plutella","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Plutella","Blood test","Glycated hemoglobin",3,28
+"genus_Plutella","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Plutella","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Populus","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Populus","Blood test","Creatinine",1,62
+"genus_Postia","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Postia","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Preussia","MCV",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Preussia","Blood test","Mean corpuscular volume",1,6
+"genus_Proteiniphilum","MCHC",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Proteiniphilum","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Proteiniphilum","Globulin",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Proteiniphilum","Blood test","Globulin",2,13
+"genus_Prunus","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Prunus","Blood test","Creatinine",1,62
+"genus_Pseudobacteroides","BASOS._ABS",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pseudobacteroides","Blood test","Absolute basophils",1,8
+"genus_Pseudomonas","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pseudomonas","Blood test","Creatinine",1,62
+"genus_Pseudotsuga","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Pseudotsuga","Blood test","Hemoglobin",3,18
+"genus_Pseudotsuga","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Pseudotsuga","Blood test","Red blood cell count",3,18
+"genus_Pseudotsuga","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Pseudotsuga","Blood test","Creatinine",3,62
+"genus_Pseudozyma","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pseudozyma","Blood test","Total bilirubin",3,28
+"genus_Pseudozyma","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pseudozyma","Blood test","Glycated hemoglobin",3,28
+"genus_Pseudozyma","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Pseudozyma","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Puccinia","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Puccinia","Blood test","Creatinine",1,62
+"genus_Pyrenochaeta","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Pyrenochaeta","Blood test","Hemoglobin",3,18
+"genus_Pyrenochaeta","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Pyrenochaeta","Blood test","Red blood cell count",3,18
+"genus_Pyrenochaeta","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Pyrenochaeta","Blood test","Creatinine",3,62
+"genus_Pyrenophora","Calcium._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Pyrenophora","Blood test","Calcium",1,5
+"genus_Quercus","EOS._.",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Quercus","Blood test","Percentage of eosinophils",4,9
+"genus_Quercus","EOS._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Quercus","Blood test","Absolute eosinophils",4,9
+"genus_Quercus","Chloride._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Quercus","Blood test","Chloride",4,5
+"genus_Quercus","CO2._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Quercus","Blood test","Carbon dioxide",4,9
+"genus_Rasamsonia","Hematocrit",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rasamsonia","Blood test","Hematocrit",5,26
+"genus_Rasamsonia","Platelet_count",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rasamsonia","Blood test","Platelet",5,26
+"genus_Rasamsonia","RDW",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rasamsonia","Blood test","Red blood cell distribution width",5,26
+"genus_Rasamsonia","Alk_P.TASE._Total._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rasamsonia","Blood test","Total alkaline phosphatase",5,26
+"genus_Rasamsonia","Albumin._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rasamsonia","Blood test","Albumin",5,26
+"genus_Reticulascus","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Reticulascus","Blood test","Creatinine",1,62
+"genus_Rhodotorula","Creatinine._Ser.Plas",0.974679434480896,0.00481823046819854,1.83999117571327,"Exposome (biological)","Rhodotorula","Blood test","Creatinine",3,62
+"genus_Rhodotorula","AST_.SGOT.._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rhodotorula","Blood test","Aspartate aminotransferase (serum glutamic oxaloacetic transaminase)",3,5
+"genus_Rhodotorula","ALT_.SGPT.._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rhodotorula","Blood test","Alanine aminotransferase (serum glutamic pyruvic transaminase)",3,5
+"genus_Ricinus","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ricinus","Blood test","Total bilirubin",3,28
+"genus_Ricinus","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ricinus","Blood test","Glycated hemoglobin",3,28
+"genus_Ricinus","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ricinus","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Rosa","MCHC",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rosa","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Rosa","Globulin",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rosa","Blood test","Globulin",2,13
+"genus_Rosellinia","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Rosellinia","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Rothia","BASOS._ABS",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rothia","Blood test","Absolute basophils",1,8
+"genus_Rufibacter","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rufibacter","Blood test","Total bilirubin",3,28
+"genus_Rufibacter","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rufibacter","Blood test","Glycated hemoglobin",3,28
+"genus_Rufibacter","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rufibacter","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Rutstroemia","BASOS._ABS",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Rutstroemia","Blood test","Absolute basophils",1,8
+"genus_Salmonella","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Salmonella","Blood test","Total bilirubin",3,28
+"genus_Salmonella","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Salmonella","Blood test","Glycated hemoglobin",3,28
+"genus_Salmonella","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Salmonella","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Scedosporium","BASO._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Scedosporium","Blood test","Percentage of basophils",6,10
+"genus_Scedosporium","LYM._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Scedosporium","Blood test","Absolute lymphocyte",6,5
+"genus_Scedosporium","Urea_Nitrogen.Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Scedosporium","Blood test","Urea nitrogen",6,5
+"genus_Scedosporium","Protein._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Scedosporium","Blood test","Total protein",6,5
+"genus_Scedosporium","Non.HDL_Chol._Calc",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Scedosporium","Blood test","Non-high-density lipoprotein cholesterol",6,5
+"genus_Scedosporium","Cholesterol.HDL_Ratio",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Scedosporium","Blood test","Cholesterol to high-density lipoprotein ratio",6,5
+"genus_Schizopora","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Schizopora","Blood test","Glucose",1,16
+"genus_Sediminibacterium","EOS._.",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Sediminibacterium","Blood test","Percentage of eosinophils",4,9
+"genus_Sediminibacterium","EOS._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Sediminibacterium","Blood test","Absolute eosinophils",4,9
+"genus_Sediminibacterium","Chloride._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Sediminibacterium","Blood test","Chloride",4,5
+"genus_Sediminibacterium","CO2._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Sediminibacterium","Blood test","Carbon dioxide",4,9
+"genus_Segetibacter","MCV",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Segetibacter","Blood test","Mean corpuscular volume",1,6
+"genus_Serpula","BASO._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Serpula","Blood test","Percentage of basophils",6,10
+"genus_Serpula","LYM._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Serpula","Blood test","Absolute lymphocyte",6,5
+"genus_Serpula","Urea_Nitrogen.Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Serpula","Blood test","Urea nitrogen",6,5
+"genus_Serpula","Protein._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Serpula","Blood test","Total protein",6,5
+"genus_Serpula","Non.HDL_Chol._Calc",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Serpula","Blood test","Non-high-density lipoprotein cholesterol",6,5
+"genus_Serpula","Cholesterol.HDL_Ratio",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Serpula","Blood test","Cholesterol to high-density lipoprotein ratio",6,5
+"genus_Sistotremastrum","Calcium._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Sistotremastrum","Blood test","Calcium",1,5
+"genus_Sphingobacterium","MCHC",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Sphingobacterium","Blood test","Mean corpuscular hemoglobin concentration",2,13
+"genus_Sphingobacterium","Globulin",-0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Sphingobacterium","Blood test","Globulin",2,13
+"genus_Sporosarcina","Hematocrit",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Sporosarcina","Blood test","Hematocrit",5,26
+"genus_Sporosarcina","Platelet_count",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Sporosarcina","Blood test","Platelet",5,26
+"genus_Sporosarcina","RDW",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Sporosarcina","Blood test","Red blood cell distribution width",5,26
+"genus_Sporosarcina","Alk_P.TASE._Total._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Sporosarcina","Blood test","Total alkaline phosphatase",5,26
+"genus_Sporosarcina","Albumin._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Sporosarcina","Blood test","Albumin",5,26
+"genus_Sporothrix","WBC",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Sporothrix","Blood test","White blood cell count",2,3
+"genus_Sporothrix","MCV",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Sporothrix","Blood test","Mean corpuscular volume",2,6
+"genus_Staphylococcus","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Staphylococcus","Blood test","Glucose",1,16
+"genus_Streptomyces","EOS._.",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Streptomyces","Blood test","Percentage of eosinophils",4,9
+"genus_Streptomyces","EOS._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Streptomyces","Blood test","Absolute eosinophils",4,9
+"genus_Streptomyces","Chloride._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Streptomyces","Blood test","Chloride",4,5
+"genus_Streptomyces","CO2._Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Streptomyces","Blood test","Carbon dioxide",4,9
+"genus_Suillus","Total_Bilirubin",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Suillus","Blood test","Total bilirubin",3,28
+"genus_Suillus","Hemoglobin_A1c",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Suillus","Blood test","Glycated hemoglobin",3,28
+"genus_Suillus","LDL.HDL_Ratio",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Suillus","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Taiwanofungus","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Taiwanofungus","Blood test","Glucose",1,16
+"genus_Talaromyces","MCH",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Talaromyces","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Taphrina","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Taphrina","Blood test","Hematocrit",5,26
+"genus_Taphrina","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Taphrina","Blood test","Platelet",5,26
+"genus_Taphrina","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Taphrina","Blood test","Red blood cell distribution width",5,26
+"genus_Taphrina","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Taphrina","Blood test","Total alkaline phosphatase",5,26
+"genus_Taphrina","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Taphrina","Blood test","Albumin",5,26
+"genus_Tarenaya","BASO._.",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tarenaya","Blood test","Percentage of basophils",6,10
+"genus_Tarenaya","LYM._ABS",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tarenaya","Blood test","Absolute lymphocyte",6,5
+"genus_Tarenaya","Urea_Nitrogen.Ser.Plas",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tarenaya","Blood test","Urea nitrogen",6,5
+"genus_Tarenaya","Protein._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tarenaya","Blood test","Total protein",6,5
+"genus_Tarenaya","Non.HDL_Chol._Calc",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tarenaya","Blood test","Non-high-density lipoprotein cholesterol",6,5
+"genus_Tarenaya","Cholesterol.HDL_Ratio",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tarenaya","Blood test","Cholesterol to high-density lipoprotein ratio",6,5
+"genus_Termitomyces","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Termitomyces","Blood test","Glucose",1,16
+"genus_Terrimonas","eGFR",-0.948683298050514,0.0138468329888591,1.85864954593104,"Exposome (biological)","Terrimonas","Blood test","Estimated glomerular filtration rate",1,4
+"genus_Tilletiaria","MCH",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tilletiaria","Blood test","Mean corpuscular hemoglobin",1,21
+"genus_Tolypocladium","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tolypocladium","Blood test","Hematocrit",5,26
+"genus_Tolypocladium","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tolypocladium","Blood test","Platelet",5,26
+"genus_Tolypocladium","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tolypocladium","Blood test","Red blood cell distribution width",5,26
+"genus_Tolypocladium","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tolypocladium","Blood test","Total alkaline phosphatase",5,26
+"genus_Tolypocladium","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Tolypocladium","Blood test","Albumin",5,26
+"genus_Trachymyrmex","LDL_.Calculated.",-0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Trachymyrmex","Blood test","Low-density lipoprotein",1,5
+"genus_Trametes","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Trametes","Blood test","High-density lipoprotein",1,12
+"genus_Tremella","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Tremella","Blood test","Hemoglobin",3,18
+"genus_Tremella","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Tremella","Blood test","Red blood cell count",3,18
+"genus_Tremella","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Tremella","Blood test","Creatinine",3,62
+"genus_Trichosporon","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Trichosporon","Blood test","Creatinine",1,62
+"genus_Tulasnella","BASO._.",1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Tulasnella","Blood test","Percentage of basophils",1,10
+"genus_Ustilago","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Ustilago","Blood test","Creatinine",1,62
+"genus_Valsa","Hemoglobin",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Valsa","Blood test","Hemoglobin",3,18
+"genus_Valsa","RBC",0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Valsa","Blood test","Red blood cell count",3,18
+"genus_Valsa","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Valsa","Blood test","Creatinine",3,62
+"genus_Verticillium","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Verticillium","Blood test","Hematocrit",5,26
+"genus_Verticillium","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Verticillium","Blood test","Platelet",5,26
+"genus_Verticillium","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Verticillium","Blood test","Red blood cell distribution width",5,26
+"genus_Verticillium","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Verticillium","Blood test","Total alkaline phosphatase",5,26
+"genus_Verticillium","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Verticillium","Blood test","Albumin",5,26
+"genus_Vitis","Creatinine._Ser.Plas",0.921052631578948,0.0263105196855778,1.57987057364179,"Exposome (biological)","Vitis","Blood test","Creatinine",3,62
+"genus_Vitis","AST_.SGOT.._Ser.Plas",-0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Vitis","Blood test","Aspartate aminotransferase (serum glutamic oxaloacetic transaminase)",3,5
+"genus_Vitis","ALT_.SGPT.._Ser.Plas",-0.974679434480896,0.00481823046819854,2.14102117137725,"Exposome (biological)","Vitis","Blood test","Alanine aminotransferase (serum glutamic pyruvic transaminase)",3,5
+"genus_Wallemia","Glucose._Ser.Plas",-1,0.0166666666666667,1.77815125038364,"Exposome (biological)","Wallemia","Blood test","Glucose",1,16
+"genus_Xylona","Creatinine._Ser.Plas",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Xylona","Blood test","Creatinine",1,62
+"genus_Yersinia","Total_Bilirubin",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Yersinia","Blood test","Total bilirubin",3,28
+"genus_Yersinia","Hemoglobin_A1c",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Yersinia","Blood test","Glycated hemoglobin",3,28
+"genus_Yersinia","LDL.HDL_Ratio",0.917662935482247,0.0280084560101462,1.55271083136763,"Exposome (biological)","Yersinia","Blood test","Low-density lipoprotein to high-density lipoprotein ratio",3,28
+"genus_Ziziphus","Hematocrit",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ziziphus","Blood test","Hematocrit",5,26
+"genus_Ziziphus","Platelet_count",-0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ziziphus","Blood test","Platelet",5,26
+"genus_Ziziphus","RDW",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ziziphus","Blood test","Red blood cell distribution width",5,26
+"genus_Ziziphus","Alk_P.TASE._Total._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ziziphus","Blood test","Total alkaline phosphatase",5,26
+"genus_Ziziphus","Albumin._Ser.Plas",0.974679434480896,0.00481823046819854,2.31711243043294,"Exposome (biological)","Ziziphus","Blood test","Albumin",5,26
+"dNO2","HDL_Cholesterol",-1,0.0166666666666667,1.77815125038364,"Environment","dNO2","Blood test","High-density lipoprotein",1,12
+"Overall.AQI.Value","Creatinine._Ser.Plas",-0.974679434480896,0.00481823046819854,1.83999117571327,"Environment","Overall.AQI.Value","Blood test","Creatinine",3,62
+"Overall.AQI.Value","AST_.SGOT.._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Environment","Overall.AQI.Value","Blood test","Aspartate aminotransferase (serum glutamic oxaloacetic transaminase)",3,5
+"Overall.AQI.Value","ALT_.SGPT.._Ser.Plas",1,0.0166666666666667,1.77815125038364,"Environment","Overall.AQI.Value","Blood test","Alanine aminotransferase (serum glutamic pyruvic transaminase)",3,5
+"X_Mean_Wind_SpeedKm.h","HDL_Cholesterol",1,0.0166666666666667,1.77815125038364,"Environment","X_Mean_Wind_SpeedKm.h","Blood test","High-density lipoprotein",1,12
